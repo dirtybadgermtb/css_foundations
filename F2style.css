@@ -1,0 +1,19 @@
+body
+.odd {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+#element_2 {
+    color:blue; 
+    font-size: 36px;
+}
+
+.odd.element_3 {
+    font-size: 24px;
+}
+    
+#element_4 {
+    background-color:lightgreen; 
+    font-size: 24px;
+    font-weight:bold;
+} 
